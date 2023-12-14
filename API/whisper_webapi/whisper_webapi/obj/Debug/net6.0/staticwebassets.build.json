@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DTRF8qMoQfUMs5oZb/FYx8VmkEwNZepuFvOqCwr77jk=",
+  "Source": "whisper_webapi",
+  "BasePath": "_content/whisper_webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
